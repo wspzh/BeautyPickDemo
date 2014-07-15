@@ -12,4 +12,7 @@
 
 @property (strong, nonatomic) UIWindow *window;
 
+//遮盖图片
+@property (strong, nonatomic) UIImageView *splashView;
+
 @end
